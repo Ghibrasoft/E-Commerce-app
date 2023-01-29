@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgURL": "/images/books.jpg" 
+    },
+    {
+        "id": 2,
+        "name": "Wine",
+        "price": 500,
+        "imgURL": "/images/bagrationi-wine.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pizza",
+        "price": 15,
+        "imgURL": "/images/pizza.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Scooter",
+        "price": 1500,
+        "imgURL": "/images/scooter.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Smartphone",
+        "price": 800,
+        "imgURL": "/images/smartphones.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Soprano titanium",
+        "price": 90000,
+        "imgURL": "/images/soprano-titanium.png"
+    },
+    {
+        "id": 7,
+        "name": "Laptop",
+        "price": 1099,
+        "imgURL": "/images/laptop.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Car",
+        "price": 15000,
+        "imgURL": "/images/car.jpg"
+    }
+]
